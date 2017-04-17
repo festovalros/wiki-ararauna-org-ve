@@ -1,0 +1,43 @@
+====== Documentación de Ararauna ======
+Desde el 2010, el espacio del Cine Club Ciencias, ha brindado el servicio de impresión y remoción de virus de pendrives, a estudiantes, profesores y visitantes de la Facultad de Ciencias de la UCV, gracias a una computadora con el sistema operativo Debian, y una máquina virtual corriendo un sistema privativo. La configuración final lograda con estas simples herramientas, produjo un puesto de trabajo, limpio, seguro, estable y que pudo ser manejado por cualquier integrante del club, carentes en lo absoluto de conocimientos sobre sistemas GNU/Linux.
+
+Otro producto de esta temprana experiencia ha sido el proyecto que hoy nos une: [[http://ararauna.org.ve|Ararauna]], que no es otra cosa que la distibución de un sistema operativo GNU/Linux, adaptado y configurado para ser utilizado por personas carentes en lo absoluto de cultura informática, siempre con la finalidad de aumentar las probabilidades de migración a GNU/Linux por parte de usuarios de sistemas privativos, y así generar un escenario más favorable para el impulso y construcción de una Sociedad Libre, pues la libertad para conocer y crear, sólo puede ser buena.
+
+Gracias al trabajo constante de entusiastas voluntarios de [[http://ucvlibre.org.ve|UCVLibre]], militantes de la Libertad del Conocimiento, y del grandioso voto de confianza que en este proyecto ha depositado sin recelo la Dirección de Tecnología de Información y Comunicaciones de la UCV (DTIC-UCV), Ararauna cuenta con un equipo humano y tecnológico, a la altura de la máxima casa de estudios de Venezuela, con el que llegará a ser, además de la primera, la mejor experiencia de Liberación de nuestras Universidades.
+
+<WRAP group>
+<WRAP half column>
+
+===== Conceptualización =====
+{{ :conceptualizacion.png?nolink&150|}}En la sección [[conceptualizacion:conceptualizacion|conceptualización]] encontrarás (y colocarás) todos los aportes que se hagan al [[conceptualizacion:objetivos:objetivos|objetivo primario, y demás objetivos,]] del proyecto [[http://ararauna.org.ve|Ararauna]]. con esta información será posible afrontar mejor los nuevos retos por venir. Esta información servirá de brújula a futuros ajustes en nuestro recorrido hacia la meta final, Software y Conocimiento Libre para la UCV.
+
+</WRAP>
+
+<WRAP half column>
+
+===== Documentos Técnicos =====
+{{ :conceptualizacion:documentos_tecnicos.png?nolink&100|}}Los Documentos Técnicos son el conjunto de herramientas que emplearemos en nuestro trabajo, tales como trozos de código, manuales, encuentas, plantillas, etcétera.
+
+</WRAP>
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+===== Publicaciones =====
+{{ :publicaciones.png?nolink&100|}}Constantemente, estaremos enviando mensajes a la comunidad UCVista, y más allá. Sin importar si éstos son gráficos, textos, grabaciones sonoras o audiovisuales, cada [[publicaciones:publicaciones|publicación]] debe estar exhaustivamente documentada en esta sección
+</WRAP>
+
+<WRAP half column>
+===== Migración =====
+{{ :tux.png?nolink&100|}}Aquí documentaremos toda la información recogida, sobre la investigación de uso de herramientas informáticas en cada nivel y puesto de trabajo de la UCV, así como reglamentación de la migración a Software Libre y la relación con la CoNaTi, como representantes de la UCV ante este organismo nacional. 
+  * [[migración:levantamiento:levantamiento|Levantamiento de la información]]
+  * [[migración:conati:conati|Representación de la UCV ante la CoNaTi]]
+  * [[migración:implantación:implantación|Implantación]]
+</WRAP>
+</WRAP>
+
+
+
+
+
+

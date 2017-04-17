@@ -1,0 +1,14 @@
+a:6:{s:2:"id";s:5:"start";s:6:"prefix";s:0:"";s:4:"text";s:819:"====== Documentación de Ararauna ======
+Tiene cuatro Componentes
+===== Conceptualización =====
+todo lo relacionado a la filosofía de Ararauna. [[Conceptualizacion:Conceptualizacion|cualquier cosa]]
+===== Documentos Técnicos =====
+Manuales de instalación
+===== Difusión =====
+En esta sección estará todo el material diseñado para socializar Ararauna con el público. incluye
+===== Migración =====
+Aquí documentaremos toda la información recogida, sobre la investigación de uso de herramientas informáticas en cada nivel y puesto de trabajo de la UCV, tarea que constituye el [[migración:levantamiento:levantamiento|Levantamiento de la información]].
+
+[[migración:conati:conati|Comisión Nacional de Tecnologías de la Información]]
+
+[[migración:implantación:implantación|Implantación]]";s:6:"suffix";s:0:"";s:4:"date";i:1447187315;s:6:"client";s:9:"carlosucv";}
